@@ -1,0 +1,25 @@
+{
+  "name": "mochajs-browser-terminal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "simple.js",
+  "dependencies": {
+    "expect.js": "^0.3.1"
+  },
+  "devDependencies": {
+    "mocha": "^6.1.4"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flaviomicheletti/"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flaviomicheletti/mochajs-browser-terminal/issues"
+  },
+  "homepage": "https://github.com/flaviomicheletti/mochajs-browser-terminal#readme"
+}
